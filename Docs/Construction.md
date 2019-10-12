@@ -6,9 +6,9 @@ The intention of this box was to make it as unassuming and dead simple to operat
 
 I wanted a way have the code really not care about the file name convention for the audio files.  At startup, I wanted it to just go out and count the files in the root directory and then play a random file number when the button was pushed.  I also wanted it to play one cut when powered up to have confidence that the box was working.
 
-The box design was one that happened to be handy in the studio space I was using but ended up being perfect for the application.  It is a six-sided box, almost cylindar in design.  In painting it gold, it has a bit of a "urn" look to it.  I am going to skip how to build a six sided box in this document.  You can look for multi-sided glue joints router bits.
+The box design was one that happened to be handy in the studio space I was using but ended up being perfect for the application.  It is a six-sided box, almost cylinder in design.  In painting it gold, it has a bit of a "urn" look to it.  I am going to skip how to build a six sided box in this document.  You can look for multi-sided glue joints router bits.
 
-The box really shouldn't be opened by the person interactiving with it.  This gave me a bit of latitude in not worrying about what the inside looks like.  It also gave me a way to make a closed box speaker enclosure (see: http://audiojudgement.com/sealed-enclosure-closed-box). I think having the audio come from the box is important to have some of the effects I wanted.
+The box really shouldn't be opened by the person using with it.  This gave me a bit of latitude in not worrying about what the inside looks like.  It also gave me a way to make a closed box speaker enclosure (see: http://audiojudgement.com/sealed-enclosure-closed-box). I think having the audio come from the box is important to have some of the effects I wanted.
 
 # Parts List
 
