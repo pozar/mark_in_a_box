@@ -12,7 +12,7 @@ This repro is going to document the project and some of the considerations in bu
 
 ### Repro Files
 
-README.md - This file.
-Code/Mark_In_A_Box.ino - The main Arduino code for the project
-Media/20191011_132621_sm.mp4 - A low rez video of the completed box
-Docs - The docs for the project
+* README.md - This file.
+* Code/Mark_In_A_Box.ino - The main Arduino code for the project
+* Media/20191011_132621_sm.mp4 - A low rez video of the completed box
+* Docs - The docs for the project
