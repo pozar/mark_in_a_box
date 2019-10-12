@@ -10,7 +10,9 @@ Fortunately, we have a bunch of audio of Mark from KFCF's RPU program that was b
 
 This repro is going to document the project and some of the considerations in building a box that plays random audio custs with a push of a button.
 
-### Files
+### Repro Files
 
 README.md - This file.
-Mark_In_A_Box.ino Arduino code for the project
+Mark_In_A_Box.ino - Arduino code for the project
+20191011_132621_sm.mp4 - A low rez video of the completed box
+
