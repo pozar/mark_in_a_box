@@ -16,4 +16,9 @@ The box design was one that happened to be handy in the studio space I was using
 4. A speaker or two. They should be able to handle the power the amp(s) produce.  
    https://www.adafruit.com/product/3968
 5. SD card to hold the audio files to play back.  This will plug into the audio shield.
+6. A button.  I got this kinda slick button made by Ulincos.  The model is U16B1.  This is a Normally Open switch with Nice clean look with nifty blue LED ring.
+   https://www.amazon.com/Ulincos-Momentary-Pushbutton-Stainless-Suitable/dp/B01G00GHQY
+7. A power supply jack
+8. A 5VDC power supply with a plug that will mate with the jack.
+
 
